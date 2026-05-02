@@ -1,0 +1,19 @@
+{
+  "name": "ra2311003011974--main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:scheduler": "node vehicle_maintence_scheduler/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.15.2",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1"
+  },
+  "type": "commonjs"
+}
